@@ -2,7 +2,7 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 import { HashRouter, Route } from 'react-router-dom';
 
-import Navbar from '../../Components/Nav';
+import Navbar from '../../Components/AppTitle';
 
 describe('Navigation', () => {
   it('renderers route correctly', () => {

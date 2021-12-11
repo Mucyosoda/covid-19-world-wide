@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import Countries from '../../Components/Countryzz';
+import Countries from '../../Components/AppHeader';
 
 const mockedData = {
   Cameroon: {
