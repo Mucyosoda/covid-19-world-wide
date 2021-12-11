@@ -6,7 +6,7 @@ import Countryzz from './AppHeader';
 import CountryInfo from './Countryinfo';
 import { dataLoading, loadDataThunk, selectData } from '../Redux/covid/covid';
 import countryNames from './CodeCountry';
-import '../sectionStyles/nav.css';
+import '../CSS/nav.css';
 import Footer from './Footer';
 
 function App() {

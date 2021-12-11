@@ -1,7 +1,7 @@
 import React from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { BsChevronLeft } from 'react-icons/bs';
-import '../sectionStyles/nav.css';
+import '../CSS/nav.css';
 
 const Navbar = () => {
   const history = useHistory();

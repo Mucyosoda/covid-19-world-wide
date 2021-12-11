@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { FaVirus } from 'react-icons/fa';
 import Country from './Country';
 import Query from './Search';
-import '../sectionStyles/countryzz.css';
+import '../CSS/countryzz.css';
 
 const Countryzz = ({
   countries, total, loading, handleClick,
