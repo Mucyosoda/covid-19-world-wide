@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Route, Switch } from 'react-router-dom';
-import Navbar from './AppTitle';
-import Countryzz from './AppHeader';
+import Navbar from './Nav';
+import Countryzz from './Countryzz';
 import CountryInfo from './Countryinfo';
 import { dataLoading, loadDataThunk, selectData } from '../Redux/covid/covid';
-import countryNames from './CodeCountry';
+import countryNames from './CountryName';
 import '../CSS/nav.css';
 import Footer from './Footer';
 
