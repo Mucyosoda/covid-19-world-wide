@@ -1,3 +1,5 @@
+/* eslint-disable*/
+
 import React from 'react';
 import renderer from 'react-test-renderer';
 import Countries from '../../Components/Countryzz';

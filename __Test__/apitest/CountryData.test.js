@@ -1,3 +1,5 @@
+/* eslint-disable*/
+
 import { fetchCountriesFromApi } from '../../apis/CountryData';
 
 describe('fetching from api', () => {

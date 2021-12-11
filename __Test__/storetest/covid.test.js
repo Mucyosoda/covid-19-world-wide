@@ -1,3 +1,5 @@
+/* eslint-disable*/
+
 import { covidReducer, selectData } from '../../Redux/covid/covid';
 
 describe('reducer test !', () => {
