@@ -1,0 +1,121 @@
+nav {
+  background-color: #97af42d8;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 1rem 0 1rem 0;
+}
+
+.location {
+  color: white;
+  font-family: 'lato', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  z-index: 10;
+}
+
+.location-path {
+  display: flex;
+  margin-left: 4rem;
+}
+
+.back {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: 'lato', sans-serif;
+}
+
+body {
+  background-color: #97af42d8;
+  overflow-x: hidden;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-container {
+  display: flex;
+  gap: 1rem;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  padding-top: 2rem;
+  background-color: #4b5c0fd8;
+}
+
+.creators p {
+  color: black;
+  font-family: 'Red Hat Mono', monospace;
+  font-weight: 600;
+  font-size: 1rem;
+  text-align: center;
+  margin-left: 11.5rem;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-left: 15rem;
+}
+
+.fab {
+  color: #b24380b0;
+  width: 2rem;
+  height: 2rem;
+}
+
+small {
+  align-self: center;
+  padding-bottom: 1rem;
+  font-family: 'Red Hat Mono', monospace;
+  letter-spacing: 0.3rem;
+  word-spacing: 1rem;
+  margin-left: 5rem;
+}
+
+.creators {
+  padding-left: 35rem;
+}
+
+.authorr {
+  padding: 1rem;
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media only screen and (max-width: 950px) {
+ eators {
+    padding-left: 0;
+  }
+
+  .creators p {
+    font-size: 1.5rem;
+  }
+
+  .authorr {
+    font-size: 1.5rem;
+  }
+}
