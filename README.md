@@ -2,7 +2,7 @@
 
 # Covid-19 World Wide
 
-This project provide all information numerically in each country, the first page display all the countries, when you click on one country the other page with country info will display. the page also include search  where you can search by country name.
+This project provides all information numerically in each country, the first-page displays all the countries, when you click on one country the other page with country info will display. the page also includes a search where you can search by country name.
 Countries and details are gotten and stored in the API
 > ![screenshot](./appscreenshoot.PNG)
 
@@ -22,7 +22,7 @@ Countries and details are gotten and stored in the API
 
 
 # PREVIEW
-> [LIVE PREVIEW]()
+> [LIVE PREVIEW](https://heuristic-shockley-42cedb.netlify.app)
 
 
 👤 **Author**

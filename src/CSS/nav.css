@@ -107,7 +107,7 @@ small {
 }
 
 @media only screen and (max-width: 950px) {
- eators {
+  .eators {
     padding-left: 0;
   }
 
