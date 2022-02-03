@@ -22,7 +22,7 @@ Countries and details are gotten and stored in the API.
 
 
 # PREVIEW
-> [LIVE PREVIEW](https://heuristic-shockley-42cedb.netlify.app)
+> [LIVE PREVIEW](https://tender-villani-ef3251.netlify.app)
 
 ### Prerequisites
 npm/yarn installed
