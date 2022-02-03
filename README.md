@@ -6,7 +6,6 @@ This project provides all information numerically in each country, the first-pag
 Countries and details are gotten and stored in the API.
 > ![screenshot](./appscreenshoot.PNG)
 
-
 # BUILT WITH
 
 - ![](https://img.shields.io/badge/React-blue)
@@ -20,9 +19,12 @@ Countries and details are gotten and stored in the API.
 - ![](https://img.shields.io/badge/API-violet)
 - ![](https://img.shields.io/badge/JSON-violet)
 
+> ![screenshot-test](./appscreenshoot2.PNG)
 
 # PREVIEW
 > [LIVE PREVIEW](https://tender-villani-ef3251.netlify.app)
+
+> [Loom video](https://www.loom.com/share/a664c4e16b524c4aa770a8f24b9ab922)
 
 ### Prerequisites
 npm/yarn installed
